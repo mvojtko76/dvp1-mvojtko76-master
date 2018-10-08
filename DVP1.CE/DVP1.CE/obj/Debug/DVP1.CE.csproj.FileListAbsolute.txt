@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\bin\Debug\DVP1.CE.exe.config
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\bin\Debug\DVP1.CE.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\bin\Debug\DVP1.CE.pdb
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\bin\Debug\DVP1.CE.exe.CodeAnalysisLog.xml
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\bin\Debug\DVP1.CE.exe.lastcodeanalysissucceeded
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\obj\Debug\DVP1.CE.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\obj\Debug\DVP1.CE.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\obj\Debug\DVP1.CE.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-mvojtko76\Challenges\DVP1.CE\DVP1.CE\obj\Debug\DVP1.CE.pdb
